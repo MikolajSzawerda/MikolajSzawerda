@@ -59,33 +59,11 @@
 | 🥇 | **Best Hacking League** | 2024 | **1st Place** | Real-time notes audio retrieval system |
 | 🥈 | **Ensemble AI Hackathon** | 2024 | **2nd Place** | ML security challenge |
 | 🥉 | **Best Hacking League** | 2023 | **3rd Place** | Warehouse 4.0 — warehouse optimization platform |
-| 🔥 | **HackYeah** | 2024 | — | Przetłumacz — AI assistant for tax office settlements |
+| 🔥 | **HackYeah** | 2024 | — | AI assistant for tax office settlements |
 | 🔥 | **ElevenLabs Hackathon** | 2025 | — | Pocket Travel Agent — real-time excursion guide |
 | 🔥 | **Cassini Hackathon** | 2025 | — | Forest planting monitoring for CO2 offset estimation |
 | 🔥 | **Hackology** | 2024 | — | xAI-driven market target group predictor |
 | 🧑‍🏫 | **Hack the AI** | 2025 | **Mentor** | Hacking LLMs hackathon |
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MikolajSzawerda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=MikolajSzawerda&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajSzawerda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikolajSzawerda&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
-</div>
 
 ---
 
